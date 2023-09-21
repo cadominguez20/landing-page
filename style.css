@@ -1,0 +1,27 @@
+.header {
+    background-color: #1f2937;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.action{
+    background-color: #3882f6;
+    color: white;
+}
+
+.footer{
+    background-color: #1f2937;
+    color: white;
+}
